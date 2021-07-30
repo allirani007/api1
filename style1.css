@@ -1,0 +1,26 @@
+h1
+{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: 0ex;
+color: brown;
+background-color: burlywood;}
+ul
+{
+    border: chocolate;
+    border-width: 2px;
+}
+
+body
+{
+    background-color: floralwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.container
+    {
+    margin: 0px !important;
+    padding: 0px !important;
+    border: 0px !important;
+    background-color: grey;
+    width:-webkit-fill-available !important ;
+    max-width:-webkit-fill-available !important ; 
+    }
